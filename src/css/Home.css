@@ -1,0 +1,78 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(128, 128, 128, 0.405);
+    height: 100vh;
+    overflow-x: hidden;
+  }
+
+ /* -------BUTTONS------ */
+.container{
+width: 100vw;
+
+}
+.button-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.content{
+ padding: 20px;
+}
+.button{
+  background-color: #323033c1;
+  border: 5px solid rgba(128, 128, 128, 0.556);
+  color: white;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  /* font-size: 16px; */
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.text{
+  display: flex;
+  justify-content: center;
+}
+
+/* ------PRODUCTS-------- */
+.product{
+    display: flex;
+    justify-content: center;
+}
+.card-container {
+      background-color: #fff;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);     
+     
+}
+.img-wrapper {
+    /* padding:3px; */
+    position: relative;
+    display: inline-block;
+    width: 132px;
+    height: auto;
+    cursor:pointer;
+    background-color: #fff;
+}
+  .img-wrapper img {
+    width: 100%;
+    height: 100%;
+    border-radius: 0%;
+}
+.img-overlay {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 5px 10px;
+    font-size:9pt;
+    text-align: right;
+    color: #fdfb14;
+    text-shadow: 2px 2px 4px #000000;
+}
+  

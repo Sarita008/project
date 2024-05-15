@@ -1,0 +1,64 @@
+{
+    "user": [
+        {
+            "id":1,
+            "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/4/64c39efULSS19DR09-32-796_1.jpg?rnd=20200526195200&tr=w-512",
+            "price": "$18"
+        },
+        {
+            "id":2,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0IxszfqCMWBxML0SHM4kwZojVG9c6eyOClNDKxxlIw&s",
+            "price": "$18"
+        },
+        {
+            "id":3,
+            "img": "https://assets.ajio.com/medias/sys_master/root/20230620/BVTA/6491ea0fd55b7d0c637ce77b/-473Wx593H-463086147-blue-MODEL.jpg",
+            "price": "$18"
+        },
+        {
+            "id":4,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcETC3nOOtRJg3clkJohqvxVTpkogDvzO-iSmNYVsQA&s",
+            "price": "$18"
+        },
+        {
+            "id":5,
+            "img": "https://www.prettygarden.com/cdn/shop/products/1000-2_0003_0f6da645-ba36-4bd7-a0cd-c2e4192db766.jpg?v=1667459614",
+            "price": "$18"
+        },
+        {
+            "id":6,
+            "img": "https://static3.azafashions.com/tr:w-450/uploads/product_gallery/1697016873966_1.jpg",
+            "price": "$18"
+        },
+        {
+            "id":7,
+            "img": "https://images.unsplash.com/photo-1571908599407-cdb918ed83bf?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGluZGlhbiUyMGNsb3RoaW5nfGVufDB8fDB8fHww",
+            "price": "$18"
+        },
+        {
+            "id":8,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSIs1_pqUVvtUwkgZfKN1GyqZ1gDiEYQewj_wnoK1J5cQarqbD9XE-fCyt37YJTvQWGc&usqp=CAU",
+            "price": "$18"
+        },
+        {
+            "id":9,
+            "img": "https://i.pinimg.com/1200x/fe/cd/ff/fecdffe6cf983ff0c9398d8c339db94f.jpg",
+            "price": "$18"
+        },
+        {
+            "id":10,
+            "img": "https://cdn.shopify.com/s/files/1/0681/3296/2546/files/Sharara-with-Short-Tops.jpg",
+            "price": "$18"
+        },
+        {
+            "id":11,
+            "img": "https://assets.ajio.com/medias/sys_master/root/20230628/5TsT/649bbc73a9b42d15c9087ba7/-473Wx593H-465862395-red-MODEL.jpg",
+            "price": "$18"
+        },
+        {
+            "id":12,
+            "img": "https://assets.ajio.com/medias/sys_master/root/20230628/RqwM/649be796eebac147fc23960c/-473Wx593H-465862417-green-MODEL.jpgg",
+            "price": "$18"
+        }
+    ]
+}
