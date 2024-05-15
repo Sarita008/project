@@ -7,38 +7,6 @@ body{
     overflow-x: hidden;
   }
 
- /* -------BUTTONS------ */
-.container{
-width: 100vw;
-
-}
-.button-container{
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
-}
-.content{
- padding: 20px;
-}
-.button{
-  background-color: #323033c1;
-  border: 5px solid rgba(128, 128, 128, 0.556);
-  color: white;
-  padding: 30px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  /* font-size: 16px; */
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 50%;
-}
-.text{
-  display: flex;
-  justify-content: center;
-}
-
 /* ------PRODUCTS-------- */
 .product{
     display: flex;
@@ -51,7 +19,7 @@ width: 100vw;
      
 }
 .img-wrapper {
-    /* padding:3px; */
+    padding:3px;
     position: relative;
     display: inline-block;
     width: 132px;
